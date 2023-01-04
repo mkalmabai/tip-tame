@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
 
             tip = kotlin.math.ceil(tip)
         }
-Ы
+
 
         displayTip(tip)
     }
